@@ -49,7 +49,7 @@ def clean_data(data):
 
 
 def try_me():
-    print("c'est le package de Nico")
+    print("c'est le package de Nico!!!")
 
 if __name__ == '__main__':
     # For introspections purpose to quickly get this functions on ipython
